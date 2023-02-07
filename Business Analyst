@@ -1,0 +1,100 @@
+A business analyst is a liaison or a link between different stakeholders belonging to different domains in an organization.
+
+What is INVEST?
+
+INVEST is an abbreviation of Independent, Negotiable, Valuable, Estimable, Sized appropriately, and Testable. 
+This term is used by business analysts and project managers to deliver quality services and products.
+
+MoSCoW stands for Must or Should, Could or Would. A business analyst should implement this process by comparing every demand with other needs 
+to prioritize the framework requirements. For example, is this requirement a must-have or should have?
+
+SWOT or Strengths, Weaknesses, Opportunities, and Threats Analysis is the most widely used technique in organizations for proper resource allocation. 
+A business analyst should be able to identify the strengths and weaknesses of any corporate framework and translate them into opportunities and threats. 
+
+The main stages of any business or IT project are Initiation, Planning, Execution, Monitoring, and Closure.
+
+BRD is an abbreviation for Business Requirement Document. It is a formal contract between the organization and the client for the development of the specific product.
+BRD is a functional specification of the software whereas SRS is both BA creates it after their direct interaction with the clients
+BRD is created by a business analyst after their direct interaction with the clients, whereas SRS is designed based on technical expertise and needs.
+SRS is derived from BRD
+
+A requirement is a targeted solution and representation to achieve specific business objectives. Stakeholders evaluate the project based on set conditions/requirements before its implementation
+
+The key attributes of business modelling to develop a strategic plan for an organization are:
+
+Vision
+Mission
+Objectives
+Strategies
+Action plan
+
+Gap Analysis means the analysis of the differences between the functionalities of an existing and the targeted system
+
+Sl.no	Data Analyst	Business Analyst
+1	The role requires more problem-solving skills and data analysis skills	It requires more decision-making and data visualization skills
+2	It is more of an operational role in the organization.	It is more of a strategic role in the organization.
+3	It requires knowledge of statistics, SQL, data mining, etc.	Knowledge of Business Intelligence, Data Warehousing, Analytics, etc. is required for this role.
+
+Here is the list of Business Analytics Tools:
+
+1. MS Office and SQL
+2. Blueprint
+3. Python and R Programming
+4. QlikView and Tableau
+5. Axure
+
+Explain the business analysis process flow :
+
+Information gathering
+Identify the key stakeholders
+Identify the business objective
+Determine the available options
+Scope the definition
+Define the delivery plan
+Define the requirements of the project
+Implementation and evaluation
+
+How do you perform risk management in your project?
+
+A risk is defined as an uncertain event that causes a threat to the existing business, which can cause an impact on revenue or sometimes on the profits of a business. Risk-management techniques such as risk avoidance, reduction, transfer, and acceptance can be used. We have to identify, analyze, evaluate, and control the risk in a business.
+
+What are the different phases of an IT project :
+
+There are five phases in project management which include:
+1. Project initiation
+2. Project planning
+3. Project execution
+4. Project monitoring and control
+5. Project closure
+
+What are the tasks and responsibilities of a Project Manager?
+
+A Project Manager is responsible for taking decisions, controlling risks, and delivering the project on the stipulated time. His/her responsibilities include:
+
+Defining the scope
+Resource planning
+Cost and budget estimation
+Risk analysis
+Quality control
+
+What is business modeling?
+
+Business modeling is identifying the value proposition for a business and then building a step-by-step approach for operating the business. 
+This step-by-step approach is known as business modeling. It includes vision, mission, and strategies to achieve the goals.
+
+What is the use of UML?
+
+Unified Modeling Language (UML) is a general-purpose, developmental modeling language that provides a standard way to visualize the system. It is used to:
+
+1. Reason the system behavior
+2. Detect and eliminate errors
+3. Propose design plans to stakeholders
+
+What are the initial steps involved in product development?
+
+1. Market analysis
+2. SWOT analysis
+3. Personas
+4. Competitor analysis
+5. Identifying the strategic vision
+
